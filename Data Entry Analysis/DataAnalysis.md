@@ -14,7 +14,7 @@
 
 1. Chippo and Cuni should be in different spreadsheets.
 2. Timings should be maintained and entered properly in the spreadsheet.
-3. Deleting the data with missing values (provided it doesn't make a negative impact in the analysis).
+3. Try to figure out if there the data is stored in any other spreadsheet that hasn't been shared with us or Ignoring the missing data if    it hampers our analysis.
 4. Year in which data is collected is important for better analysis. Year should be same in all the 3 spreadsheets.
 5. Column names should be simple to understand.
 
