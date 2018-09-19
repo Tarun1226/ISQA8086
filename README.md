@@ -1,8 +1,9 @@
 # ISQA8086
 
 ## List of Files
-Data Entry Analysis
-Readme
+
+1.Data Entry Analysis
+2.Readme
 
 ## License
 MIT License
