@@ -34,10 +34,10 @@ Once scallops have been grown, harvested and processed the principal end product
 While the shelf life of a live scallop is limited, the marketing of this product allows scallop farmers to sell smaller animals and so increase cash flow. Top quality scallop muscle can demand a high market price, which fluctuates with production, success of wild scallop fisheries and a number of other global factors.
 
 #### References:
-https://en.wikipedia.org/wiki/Scallop, 
-http://www.hurricaneisland.net/science-for-everyone/2015/7/29/scallops-and-clams-and-mussels-oh-my?rq=bailey%20moritz ,
-http://www.hurricaneisland.net/island-updates/ , 
-https://www.themainemag.com/features/2850-hurricane-island/ , 
-https://sciencetrends.com/what-exactly-are-scallops/ , 
-https://www.thoughtco.com/facts-about-scallops-2291857 
+1. https://en.wikipedia.org/wiki/Scallop
+2. http://www.hurricaneisland.net/science-for-everyone/2015/7/29/scallops-and-clams-and-mussels-oh-my?rq=bailey%20moritz 
+3. http://www.hurricaneisland.net/island-updates/ 
+4. https://www.themainemag.com/features/2850-hurricane-island/  
+5. https://sciencetrends.com/what-exactly-are-scallops/ 
+6. https://www.thoughtco.com/facts-about-scallops-2291857 
 
