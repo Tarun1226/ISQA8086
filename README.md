@@ -2,9 +2,9 @@
 
 ## List of Files
 
-1.Data Entry Analysis
-2.Readme
-3.Background Research Report
+1. Data Entry Analysis
+2. Readme
+3. Background Research Report
 
 ## License
 MIT License
