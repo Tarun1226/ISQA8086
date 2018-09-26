@@ -4,7 +4,7 @@
 
 1. Data Entry Analysis
 2. Readme
-3. Background Research Report
+3. Background Research 
 
 ## License
 MIT License
